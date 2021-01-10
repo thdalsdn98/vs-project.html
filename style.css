@@ -24,3 +24,8 @@ h1 span:nth-child(1) {
   .search-bar {
       width: 500px;
   }
+input.static {
+   position:relative;
+   left:200px;
+   top:10px;
+ }

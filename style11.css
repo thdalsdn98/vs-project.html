@@ -9,8 +9,9 @@ h1 {
     padding:30px;
 }
 #링크 {
-    font-size: 30px;
+    font-size: 25px;
 }
 a {
+  text-decoration: none;
     color:rgb(89, 88, 161);
 }
