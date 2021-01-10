@@ -25,7 +25,13 @@ h1 span:nth-child(1) {
       width: 500px;
   }
 input.static {
-   position:relative;
-   left:200px;
-   top:10px;
+   position:absolute;
+   top:50px;
+   left:10px;
  }
+input.oh {
+  position:absolute;
+  top:50px;
+  left:145px;
+
+}
